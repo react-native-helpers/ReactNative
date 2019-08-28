@@ -1,0 +1,21 @@
+{
+    "name": "ReactNativeDemo",
+    "private": true,
+    "scripts": {
+      "start": "node node_modules/react-native/local-cli/cli.js start",
+      "test": "jest"
+    },
+    "dependencies": {
+      "react": "16.8.3",
+      "react-native": "0.59.3"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git@github.com:react-native-helpers/ReactNative.git"
+    },  
+    "homepage": "https://github.com/react-native-helpers/ReactNative",
+    "jest": {
+      "preset": "react-native"
+    }
+  }
+  

@@ -1,0 +1,59 @@
+{
+  "name": "ReactNative",
+  "version": "0.59.3",
+  "summary": "This library is a container of the react native depenecies.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/react-native-helpers/ReactNative",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "barrault01": "barrault01@gmail.com"
+  },
+  "source": {
+    "git": "git@github.com:react-native-helpers/ReactNative.git",
+    "tag": "0.59.3"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "dependencies": {
+    "React/Core": [
+      "0.59.3"
+    ],
+    "React/CxxBridge": [
+      "0.59.3"
+    ],
+    "React/RCTAnimation": [
+      "0.59.3"
+    ],
+    "React/RCTImage": [
+      "0.59.3"
+    ],
+    "React/RCTLinkingIOS": [
+      "0.59.3"
+    ],
+    "React/RCTNetwork": [
+      "0.59.3"
+    ],
+    "React/RCTText": [
+      "0.59.3"
+    ],
+    "React/DevSupport": [
+      "0.59.3"
+    ],
+    "yoga": [
+      "0.59.3.React"
+    ],
+    "DoubleConversion": [
+      "1.1.6"
+    ],
+    "Folly": [
+      "2018.10.22.00"
+    ],
+    "glog": [
+      "0.3.5"
+    ]
+  }
+}
